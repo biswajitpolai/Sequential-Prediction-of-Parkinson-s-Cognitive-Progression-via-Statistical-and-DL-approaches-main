@@ -87,4 +87,20 @@ Because accuracy is misleading due to class imbalance, we use:
 
 TFT is superior on the most critical classes (Normal and Dementia), though MCI remains challenging for both.
 
-### Transition Matrix (LSTM – all folds)
+## References
+
+- **Temporal Fusion Transformer**  
+  Lim, B., Arık, S., Loeff, N., & Pfister, T. (2021).  
+  *Temporal Fusion Transformers for interpretable multi‑horizon time series forecasting.*  
+  International Journal of Forecasting, 37(4), 1748‑1764.  
+  [arXiv:1912.09363](https://arxiv.org/abs/1912.09363)
+
+- **Parkinson’s Progression Markers Initiative (PPMI)**  
+  Marek, K., et al. (2011).  
+  *The Parkinson’s Progression Markers Initiative (PPMI).*  
+  Progress in Neurobiology, 95(4), 629‑635.
+
+- **LSTM for Time Series Classification**  
+  Karim, F., Majumdar, S., Darabi, H., & Chen, S. (2017).  
+  *LSTM Fully Convolutional Networks for Time Series Classification.*  
+  IEEE Access, 6.
